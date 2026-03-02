@@ -1,7 +1,7 @@
 <h1 align="center"># 👋 Hi, I'm Tofan Adi</h1>
 
 <p align="center">
-  <img src="https://hits.dwyl.com/Fandigro/Fandigro.svg" alt="Fandigro" />
+  <img src="https://komarev.com/ghpvc/?username=Fandigro&color=blue&style=flat-square" alt="Fandigro" />
 </p>
 
 🚀 Passionate Developer | AI Enthusiast | Web Builder  
