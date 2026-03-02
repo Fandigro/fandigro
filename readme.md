@@ -1,4 +1,8 @@
-# 👋 Hi, I'm Tofan Adi
+<h1 align="center"># 👋 Hi, I'm Tofan Adi</h1>
+
+<p align="center">
+  <img src="https://hits.dwyl.com/Fandigro/Fandigro.svg" alt="Fandigro" />
+</p>
 
 🚀 Passionate Developer | AI Enthusiast | Web Builder  
 
@@ -15,13 +19,3 @@ I love building useful digital solutions, especially web-based systems and AI-po
 - 🎯 Focused on creating practical and impactful technology  
 
 ---
-
-## 📫 Let's Connect
-
-Feel free to explore my repositories and see what I'm building!
-
-> "I just build programs I like 😁"
-
----
-
-⭐ If you like my projects, don't forget to give them a star!
