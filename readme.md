@@ -12,10 +12,27 @@ I love building useful digital solutions, especially web-based systems and AI-po
 
 ## 💡 About Me
 
-- 💻 I build web applications using PHP (Native), MySQL, and JavaScript  
-- 🤖 Currently developing an AI-powered RAG Chatbot for a Village Website  
-- 📊 Working with document indexing (PDF, DOCX, CSV) using FAISS & LangChain  
-- 🌐 Deploying production apps on VPS (Coolify, Node.js, Express)  
-- 🎯 Focused on creating practical and impactful technology  
+I’m a passionate software developer who enjoys building efficient, scalable, and user-focused digital solutions.  
+With a strong foundation in backend development and system architecture, I focus on writing clean code and delivering real-world impact through technology.
+
+I’m particularly interested in:
+- Backend Engineering & API Development
+- Artificial Intelligence & Data Processing
+- System Optimization & Performance
+- Building products that solve practical problems
+
+I value continuous learning, experimentation, and turning ideas into working products.
 
 ---
+
+## 🤝 How to Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/tofan-adi-nugroho
+- 🐙 GitHub: https://github.com/Fandigro
+- 📧 Email: tofanadi06@gmail.com
+
+I’m always open to collaboration, interesting discussions, and building meaningful projects together.
+
+---
+
+⭐ Thanks for visiting my profile!
