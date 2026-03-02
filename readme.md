@@ -16,46 +16,6 @@ I love building useful digital solutions, especially web-based systems and AI-po
 
 ---
 
-## 🛠 Tech Stack
-
-**Backend**
-- PHP (Native)
-- Node.js
-- Express.js
-- MySQL
-
-**AI & Data**
-- LangChain
-- FAISS (Vector Database)
-- LLaMA 3 (via Groq API)
-- Embedding Models (Xenova/gte-base)
-
-**DevOps**
-- VPS Deployment
-- Coolify
-- Git & GitHub
-
----
-
-## 📌 Current Project
-
-### 🤖 Village Website AI Chatbot (RAG-Based)
-An AI assistant integrated into a village website that can:
-- Answer questions from village statistical data
-- Retrieve information from uploaded documents
-- Perform semantic search using vector embeddings
-- Provide general and conversational responses
-
----
-
-## 🎯 Goals
-
-- Build scalable AI-integrated web applications
-- Publish my own Android app (Football Manager-style game)
-- Create digital solutions that solve real-world problems
-
----
-
 ## 📫 Let's Connect
 
 Feel free to explore my repositories and see what I'm building!
