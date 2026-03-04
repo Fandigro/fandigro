@@ -32,7 +32,3 @@ I value continuous learning, experimentation, and turning ideas into working pro
 - 📧 Email: tofanadi06@gmail.com
 
 I’m always open to collaboration, interesting discussions, and building meaningful projects together.
-
----
-
-⭐ Thanks for visiting my profile!
