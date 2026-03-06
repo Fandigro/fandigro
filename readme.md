@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=Fandigro&color=blue&style=flat-square" alt="Fandigro" />
 </p>
 
-🚀 Passionate Developer | AI Enthusiast | Web Builder  
+🚀 Passionate Developer | AI Enthusiast | Web Builder | Machine Learning Engineer  
 
 I love building useful digital solutions, especially web-based systems and AI-powered applications.
 
